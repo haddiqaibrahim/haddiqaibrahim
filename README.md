@@ -7,7 +7,7 @@ A curious mind 🌱 currently diving into the world of **Python (OOP)**, **Datab
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on my **semester project**: a 📊 **Recommender System** using **OOP + Machine Learning**
-- 🌱 Learning every day and applying what I learn — one step at a time!
+- 🌱 Learning every day and applying what I learn one step at a time!
 - 📚 I absolutely love reading books 📖 (tech + non-tech!)
 - 💡 I believe *small consistent efforts* lead to *big changes* ✨
 - 📫 How to reach me: **haddiqaibrahim38@gmail.com**
